@@ -1,0 +1,19 @@
+$primary-color: #171821;
+$white-color: hsl(0, 0%, 97%);
+$secondary-color: #ff7575;
+
+@mixin center-align-items() {
+  display: flex;
+  align-items: center;
+}
+
+@mixin center-justify-content() {
+  display: flex;
+  justify-content: center;
+}
+
+@mixin center-flex() {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

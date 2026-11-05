@@ -1,0 +1,64 @@
+.tags {
+  @include center-flex;
+  gap: 20px;
+  margin-top: 6px;
+  width: 100%;
+  padding: 0 10px;
+
+  .view-controls {
+    @include center-align-items;
+    gap: 10px;
+    flex-shrink: 0;
+  }
+
+  .icon-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #909090;
+    transition: color 150ms ease;
+    
+    & img {
+      width: 80%;
+    }
+
+    &:hover {
+      color: #fff;
+    }
+  }
+
+  .tags-list {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+    font-style: italic;
+    overflow-x: auto;
+    white-space: nowrap;
+    padding: 5px 0;
+    max-width: 600px;
+    width: 100%;
+
+    -webkit-mask-image: linear-gradient(to right, transparent 0%, black 0.5%, black 97%, transparent 100%);
+    mask-image: linear-gradient(to right, transparent 0%, black 0.5%, black 97%, transparent 100%);
+
+    scrollbar-width: none;
+    &::-webkit-scrollbar {
+      display: none;
+    }
+    
+    * {
+      transition: color 250ms ease;
+    
+
+      &:hover,
+      &.active {
+        color: #fff;
+      }
+    }
+  }
+
+  .tag-item {
+    text-decoration: none;
+    color: #909090;
+  }
+}
