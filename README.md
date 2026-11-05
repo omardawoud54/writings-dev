@@ -1,8 +1,6 @@
 # Writing.dev
 
-## Writings.dev is a landing page website challenge came from [roadmap.sh in figma](https://www.figma.com/file/nh0V05z3NB87ue9v5PcO3R/writings.dev?type=design&node-id=0%3A1&t=2iQplaIojU3ydAfW-1)
-
----
+Writings.dev is a landing page website challenge came from [roadmap.sh in figma](https://www.figma.com/file/nh0V05z3NB87ue9v5PcO3R/writings.dev?type=design&node-id=0%3A1&t=2iQplaIojU3ydAfW-1)
 
 ## About the Project
 
@@ -11,8 +9,6 @@ A website that has programming blogs for developers
 ### Why I made this website
 
 I wanted to make this website to enhance my HTML, CSS, and my new technical skill Sass and to see if I can make a website after taking the courses
-
----
 
 ## Tech Stack
 
