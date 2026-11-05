@@ -1,6 +1,6 @@
 # Writing.dev
 
-## Writings.dev is a landing page website challenge came from [roadmap.sh in figma](https://www.figma.com/file/nh0V05z3NB87ue9v5PcO3R/writings.dev?type=design&node-id=0%3A1&t=2iQplaIojU3ydAfW-1)
+Writings.dev is a landing page website challenge came from [roadmap.sh in figma](https://www.figma.com/file/nh0V05z3NB87ue9v5PcO3R/writings.dev?type=design&node-id=0%3A1&t=2iQplaIojU3ydAfW-1)
 
 ## About the Project
 
