@@ -24,3 +24,4 @@ I learned how I organize my files especially on Sass and tried the features on s
 
 ## Live Demo
 
+### [View Live Website](https://omardawoud54.github.io/writings-dev/)
